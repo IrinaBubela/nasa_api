@@ -225,7 +225,7 @@
     "ms": "^2.1.2",
     "mkdirp": "^0.5.1",
     "nan": "^2.14.0",
-    "node-forge": "^0.7.6",
+    "node-forge": "^0.10.0",
     "node-addon-api": "^1.7.1",
     "normalize-html-whitespace": "^1.0.0",
     "nice-try": "^1.0.5",
